@@ -1,0 +1,3 @@
+[submodule "gatsby-portfolio"]
+	path = gatsby-portfolio
+	url = git@github.com:schiafang/gatsby-portfolio.git
