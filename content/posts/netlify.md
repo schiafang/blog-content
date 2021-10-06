@@ -7,4 +7,4 @@ tags:
 ---
 Cool
 
-![test-image](w644.jpeg)
+![test-image](8e48d8409c174ab419ae15dc80451fe6.jpeg)
