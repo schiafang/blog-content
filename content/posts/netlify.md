@@ -5,7 +5,6 @@ description: Try
 tags:
   - Netlify
 ---
-
 Cool
 
-![test-image](/uploads/71ar35igrrl.png 'test-image')
+![test-image](w644.jpeg)
